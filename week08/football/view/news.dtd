@@ -1,0 +1,7 @@
+<!DOCTYPE news_s [
+  <!ELEMENT news_s (news+) >
+  <!ELEMENT news (title, description) >
+  <!ATTLIST news id CDATA #REQUIRED >
+  <!ELEMENT title (#PCDATA) >
+  <!ELEMENT description (#PCDATA) >
+]>

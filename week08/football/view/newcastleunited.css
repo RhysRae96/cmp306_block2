@@ -1,0 +1,16 @@
+/* Special Styles that change Bootstrap defaults */
+.card-header, .card-footer {
+	background-color : #000000 ;
+	color : #ffffff;
+	text-align : center ;
+}
+.card {
+	border : 2px solid #000000 ;
+}
+.card-body h1 {
+	font-size : 1.2em ;
+	color : #000000 ;
+}
+.bold {
+	color : #606060 ;
+}

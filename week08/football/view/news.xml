@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE news SYSTEM "news.dtd">
+
+<news_s>
+
+<news id="1">
+<title>Glasglow 2023</title>
+<description>Annual Glasgow firework show Novemeber 3rd Gardens</description>
+</news>
+
+<news id="2">
+<title>GlasScare</title>
+<description>Halloween in Glasgow 2023</description>
+</news>
+
+<news id="3">
+<title>GlasXmas</title>
+<description>Christmas in Glasgow 2023</description>
+</news>
+
+<news id="4">
+<title>GlasFools</title>
+<description>April fools in Glasgow 2023</description>
+</news>
+
+<news id="5">
+<title>GlasEaster</title>
+<description>Easter in Glasgow 2023</description>
+</news>
+
+<news id="6">
+<title>New years Glasgow</title>
+<description>New years in Glasgow 2023</description>
+</news>
+
+</news_s>
